@@ -10,6 +10,10 @@
         $("#divIkigai").toggle(200);
     });
 
+	$("#btnMission").click(function(){
+        $("#divMission").toggle(200);
+    });
+
 	$("#btnFramework").click(function(){
         $("#divFramework").toggle(200);
     });
